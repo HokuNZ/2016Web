@@ -1618,6 +1618,11 @@
 		font-size: 2em;
 		line-height: 1.5em;
 	}
+	
+	h1 img.flag {
+		height: 1em;
+		margin-bottom: -0.2em;
+	}
 
 	h2 {
 		font-size: 1.5em;
