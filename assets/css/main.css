@@ -3038,6 +3038,10 @@
 					margin: 2.25em 0 0 0;
 					padding: 2.25em 0 0 0;
 				}
+				
+				#main > section.paging-links {
+					margin-bottom: 5em;
+				}
 
 		/* Poptrox */
 
